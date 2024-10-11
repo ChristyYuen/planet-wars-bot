@@ -1,11 +1,6 @@
 #!/usr/bin/env python
 #
 
-"""
-// There is already a basic strategy in place here. You can use it as a
-// starting point, or you can throw it out entirely and replace it with your
-// own.
-"""
 import logging, traceback, sys, os, inspect
 logging.basicConfig(filename=__file__[:-3] +'.log', filemode='w', level=logging.DEBUG)
 currentdir = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))
