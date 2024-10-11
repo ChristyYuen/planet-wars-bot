@@ -8,9 +8,6 @@ This project is a Python implementation of a bot that plays **Planet Wars**, a r
 - [Competition](#competition)
 - [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About the Game
 
