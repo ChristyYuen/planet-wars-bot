@@ -1,4 +1,4 @@
-# Planet Wars Bot using Behavior Trees
+## Planet Wars Bot using Behavior Trees
 
 This project is a Python implementation of a bot that plays **Planet Wars**, a real-time strategy game where players conquer planets and engage in interplanetary warfare. The bot is designed using **Behavior Trees** to create a reactive, strategic AI capable of competing against various test bots in different game scenarios.
 
